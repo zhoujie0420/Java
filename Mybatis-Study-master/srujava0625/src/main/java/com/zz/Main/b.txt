@@ -1,0 +1,1 @@
+SruTeacher(tid=20200101, password=123456, name=周高兴, sex=男, dataofbirth=2002-04-23, college=信息学院, course=计算机组成原理, email=20200101.com)

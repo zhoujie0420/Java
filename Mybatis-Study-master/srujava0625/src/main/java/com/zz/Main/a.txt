@@ -1,0 +1,1 @@
+SruStudent{sid=20200201, password='123456', name='宋江', sex='男', dataofbirth='2002-06-17', college='信息学院', major='计算机科学与技术', stuclass='201'}
