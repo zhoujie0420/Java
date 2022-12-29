@@ -35,6 +35,7 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
     @Resource
     private StringRedisTemplate stringRedisTemplate;
 
+
     @Override
     public Result seckillVoucher(Long voucherId) {
         // query coupon
