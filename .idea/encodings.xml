@@ -3,20 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Redis-study-heima/hm-dianping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Redis-study-heima/hm-dianping/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Redis-study/springboot-redis/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Redis-study/springboot-redis/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Web-study/javaweb-02-servlet/servlet-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Web-study/javaweb-02-servlet/servlet-01/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Web-study/javaweb-02-servlet/servlet-02/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Web-study/javaweb-02-servlet/servlet-02/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hm-dianping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hm-dianping/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/DeserializationTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/ReadTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/SerializationTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/StudentIOTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/StudentRead.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/src/main/java/org/example/DeserializationTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/homework/src/main/resources" charset="UTF-8" />
   </component>
 </project>

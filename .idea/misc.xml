@@ -8,12 +8,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Web-study/javaweb-02-servlet/pom.xml" />
-        <option value="$PROJECT_DIR$/Redis-study/jedis-study/pom.xml" />
-        <option value="$PROJECT_DIR$/Redis-study/springboot-redis/pom.xml" />
         <option value="$PROJECT_DIR$/Redis-study-heima/hm-dianping/pom.xml" />
-        <option value="$PROJECT_DIR$/Mybatis-Study-master/pom.xml" />
-        <option value="$PROJECT_DIR$/homework/pom.xml" />
+        <option value="$PROJECT_DIR$/hm-dianping/pom.xml" />
       </list>
     </option>
   </component>

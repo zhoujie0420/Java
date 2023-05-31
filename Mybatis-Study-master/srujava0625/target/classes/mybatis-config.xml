@@ -5,7 +5,7 @@
 
 <configuration>
 
-    <!--引入外部配置文件-->
+    <!--寮曞叆澶栭儴閰嶇疆鏂囦欢-->
     <properties resource="db.properties"/>
 
     <typeAliases>
@@ -25,7 +25,7 @@
         </environment>
     </environments>
 
-    <!--绑定接口-->
+    <!--缁戝畾鎺ュ彛-->
     <mappers>
         <mapper class="com.zz.dao.TeacherMapper"/>
         <mapper class="com.zz.dao.StudentMapper"/>
