@@ -106,14 +106,15 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
         return Result.ok(orderId);
     }
 
-    @Transactional
-    public Result createVoucherOrder(VoucherOrder voucherOrder) {
+
+    public void createVoucherOrder(VoucherOrder voucherOrder) {
         Long userId = UserHolder.getUser().getId();
         Long voucherId = voucherOrder.getVoucherId();
         RLock redisLock = redissonClient.getLock("lock:order:" + userId);
         boolean isLock = redisLock.tryLock();
         if (!isLock) {
-            return Result.fail("一人只能下一单");
+            log.error("不允许重复下单！");
+            return;
         }
         try {
             // 5.1.查询订单
@@ -121,7 +122,8 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
             // 5.2.判断是否存在
             if (count > 0) {
                 // 用户已经购买过了
-                return Result.fail("用户已经购买过一次！");
+                log.error("不允许重复下单！");
+                return;
             }
 
             // 6.扣减库存
@@ -131,7 +133,8 @@ public class VoucherOrderServiceImpl extends ServiceImpl<VoucherOrderMapper, Vou
                     .update();
             if (!success) {
                 // 扣减失败
-                return Result.fail("库存不足！");
+                log.error("库存不足！");
+                return;
             }
 
             save(voucherOrder);
