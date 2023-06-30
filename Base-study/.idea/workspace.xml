@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf47b73b-3919-439a-a49f-3b83aea33267" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/Concurrent/ThreadLocal/ThreadLocalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/Concurrent/ThreadLocal/ThreadLocalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/Concurrent/ThreadLocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/Concurrent/ThreadPoolExecutor/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/Concurrent/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/AbstractFactoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/FactoryPattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/SingletonPattern/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/SingletonPattern/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/DesignPattern/SingletonPattern/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/base/polymorphismDemo/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/base/polymorphismDemo/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/base/polymorphismDemo/PolymorphismDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/base/polymorphismDemo/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/com/java/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/README" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/koi-utf" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/koi-utf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/unicode-to-nginx.pl" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/unicode-to-nginx.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/win-utf" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/unicode2nginx/win-utf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/ftdetect/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/ftdetect/nginx.vim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/ftplugin/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/ftplugin/nginx.vim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/indent/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/indent/nginx.vim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/syntax/nginx.vim" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/contrib/vim/syntax/nginx.vim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/CHANGES" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/CHANGES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/CHANGES.ru" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/CHANGES.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/OpenSSL.LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/OpenSSL.LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/PCRE.LICENCE" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/PCRE.LICENCE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/README" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/zlib.LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/docs/zlib.LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/html/50x.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/html/50x.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/nginx.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/nginx-1.18.0/logs/nginx.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/HmDianPingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/HmDianPingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/component/KafkaConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/component/KafkaProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/KafkaConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/RedissonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/WebExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/config/WebExceptionAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/BlogCommentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/BlogCommentsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/FollowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/FollowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/ShopTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/ShopTypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/VoucherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/VoucherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/VoucherOrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/controller/VoucherOrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/LoginFormDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/LoginFormDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/ScrollResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/ScrollResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/BlogComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/BlogComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Follow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Follow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/SeckillVoucher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/SeckillVoucher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/ShopType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/ShopType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Voucher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/Voucher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/VoucherOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/entity/VoucherOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/BlogCommentsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/BlogCommentsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/BlogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/BlogMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/FollowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/FollowMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/SeckillVoucherMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/SeckillVoucherMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/ShopMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/ShopMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/ShopTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/ShopTypeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/UserInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/UserInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/VoucherMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/VoucherMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/VoucherOrderMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/mapper/VoucherOrderMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IBlogCommentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IBlogCommentsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IBlogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IFollowService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IFollowService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/ISeckillVoucherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/ISeckillVoucherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IShopTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IShopTypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IUserInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IUserInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IVoucherOrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IVoucherOrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IVoucherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/IVoucherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/BlogCommentsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/BlogCommentsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/BlogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/SeckillVoucherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/SeckillVoucherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/ShopTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/ShopTypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/UserInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/UserInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/CacheClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/CacheClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/ILock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/ILock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/PasswordEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/PasswordEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisIdWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RedisIdWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RefreshTokenInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RefreshTokenInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RegexPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RegexPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RegexUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/RegexUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/SimpleRedisLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/SimpleRedisLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/SystemConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/SystemConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/UserHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/java/com/hmdp/utils/UserHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/resources/db/hmdp.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/resources/db/hmdp.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/resources/mapper/VoucherMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/resources/mapper/VoucherMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/resources/seckill.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/resources/seckill.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/main/resources/unlock.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/main/resources/unlock.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/src/test/java/com/hmdp/HmDianPingApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/src/test/java/com/hmdp/HmDianPingApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/HmDianPingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/HmDianPingApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/config/MvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/config/RedissonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/config/RedissonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/FollowController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/FollowController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/ShopTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/ShopTypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/VoucherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/VoucherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/VoucherOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/controller/VoucherOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/entity/BlogComments.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/entity/BlogComments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/entity/Follow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/entity/Follow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IBlogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IBlogService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IShopService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IVoucherOrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/IVoucherOrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/BlogServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/BlogServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/FollowServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/FollowServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/VoucherOrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/VoucherOrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/VoucherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/service/impl/VoucherServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/CacheClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/CacheClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/RedisIdWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/RedisIdWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/SimpleRedisLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/com/hmdp/utils/SimpleRedisLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/db/hmdp.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/db/hmdp.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/mapper/VoucherMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/mapper/VoucherMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/seckill.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/seckill.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/classes/unlock.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/classes/unlock.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hm-dianping/target/test-classes/com/hmdp/HmDianPingApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hm-dianping/target/test-classes/com/hmdp/HmDianPingApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RHsCJkeREti0KdWF3jJl0rK45i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java-project/Java-Study/Base-study&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.DesignPattern.AbstractFactoryPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Generics">
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.Generics" />
+      <module name="base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concurrent.ThreadLocal.ThreadLocalDemo" />
+      <module name="base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concurrent.ThreadLocal.ThreadLocalExample" />
+      <module name="base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadLocalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concurrent.ThreadLocal.ThreadLocalTest" />
+      <module name="base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Concurrent.ThreadTest" />
+      <module name="base" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.ThreadLocalExample" />
+        <item itemvalue="Application.ThreadLocalDemo" />
+        <item itemvalue="Application.ThreadLocalTest" />
+        <item itemvalue="Application.ThreadTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
