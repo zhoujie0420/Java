@@ -16,6 +16,13 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
+/**
+ * <p>
+ * 前端控制器
+ * </p>
+ *
+ * @author 虎哥
+ */
 @Slf4j
 @RestController
 @RequestMapping("/user")
@@ -32,8 +39,8 @@ public class UserController {
      */
     @PostMapping("code")
     public Result sendCode(@RequestParam("phone") String phone, HttpSession session) {
-        // TODO 发送短信验证码并保存验证码
-        return userService.sendCode(phone,session);
+        // 发送短信验证码并保存验证码
+        return userService.sendCode(phone, session);
     }
 
     /**
@@ -62,7 +69,6 @@ public class UserController {
         UserDTO user = UserHolder.getUser();
         return Result.ok(user);
     }
-
 
     @GetMapping("/info/{id}")
     public Result info(@PathVariable("id") Long userId){

@@ -1,11 +1,5 @@
 package com.hmdp.service.impl;
 
-import com.hmdp.entity.Follow;
-import com.hmdp.mapper.FollowMapper;
-import com.hmdp.service.IFollowService;
-import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import org.springframework.stereotype.Service;
-
 import cn.hutool.core.bean.BeanUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
@@ -26,9 +20,16 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
+ * <p>
+ * 服务实现类
+ * </p>
+ *
+ * @author 虎哥
+ * @since 2021-12-22
  */
 @Service
 public class FollowServiceImpl extends ServiceImpl<FollowMapper, Follow> implements IFollowService {
+
     @Resource
     private StringRedisTemplate stringRedisTemplate;
     @Resource
