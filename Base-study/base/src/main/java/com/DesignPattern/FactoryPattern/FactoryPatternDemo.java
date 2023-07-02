@@ -1,4 +1,6 @@
-package com.DesignPattern.FactoryPattern;/**
+package com.DesignPattern.FactoryPattern;
+
+/**
  * @author zhouj
  * @create 2023/6/17 18:56
  */
