@@ -7,8 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tj-gateway" />
+        <module name="tj-auth-resource-sdk" />
+        <module name="tj-exam" />
+        <module name="tj-pay-domain" />
+        <module name="tj-auth-service" />
         <module name="hm-dianping" />
+        <module name="tj-common" />
+        <module name="tj-media" />
+        <module name="tj-api" />
+        <module name="tj-message-api" />
+        <module name="tj-user" />
+        <module name="tj-course" />
+        <module name="tj-search" />
+        <module name="tj-message-service" />
+        <module name="tj-pay-api" />
+        <module name="tj-learning" />
+        <module name="tj-trade" />
+        <module name="tj-pay-service" />
+        <module name="tj-remark" />
+        <module name="tj-auth-gateway-sdk" />
+        <module name="tj-message-domain" />
+        <module name="tj-promotion" />
+        <module name="tj-data" />
         <module name="base" />
+        <module name="tj-auth-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
