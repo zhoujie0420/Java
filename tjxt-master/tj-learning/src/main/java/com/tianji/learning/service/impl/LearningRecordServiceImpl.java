@@ -47,30 +47,16 @@ public class LearningRecordServiceImpl extends ServiceImpl<LearningRecordMapper,
 
     @Override
     public LearningLessonDTO queryLearningRecordByCourse(Long courseId) {
-
-        // 1-获取登陆信息
         Long userId = UserContext.getUser();
-
-        // 2-查询课表
         LearningLesson lesson = lessonService.queryByUserIdAndCourseId(userId, courseId);
-        if (Objects.isNull(lesson)) {
-            return null;
-        }
 
-        // 3-查询指定课程的学习记录
-        // SELECT * FROM xx WHERE LESSON_ID = xx
-        List<LearningRecord> records = lambdaQuery()
-                .eq(LearningRecord::getLessonId, lesson.getId())
-                .list();
-        // 拷贝po->dto
-        List<LearningRecordDTO> learningLessonDTOList = BeanUtils.copyList(records, LearningRecordDTO.class);
-
-        // 4-封装返回结果
-        LearningLessonDTO result = new LearningLessonDTO();
-        result.setId(lesson.getId());
-        result.setLatestSectionId(lesson.getLatestSectionId());
-        result.setRecords(learningLessonDTOList);
-        return result;
+        List<LearningRecord> list = lambdaQuery()
+                .eq(LearningRecord::getLessonId, lesson.getId()).list();
+        LearningLessonDTO dto = new LearningLessonDTO();
+        dto.setId(lesson.getId());
+        dto.setLatestSectionId(lesson.getLatestSectionId());
+        dto.setRecords(BeanUtils.copyList(list, LearningRecordDTO.class));
+        return dto;
     }
 
     @Override
