@@ -4,6 +4,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
+import java.util.HashSet;
 
 /**
  * @author zhouj
@@ -12,14 +13,14 @@ import java.util.ArrayList;
 
 public class Generics {
     public static void main(String[] args) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
-        ArrayList<Integer> list = new ArrayList<Integer>();
-        list.add(1);
-
-        Class<? extends ArrayList> aClass = list.getClass();
-        Method add = aClass.getDeclaredMethod("add", Object.class);
-        add.invoke(list, "asd");
-        list.add(1);
-        System.out.println(list);
+        HashSet<String> strings = new HashSet<>();
+        String[] strings1 = new String[10];
+        strings1[1] = "1asd";
+        int i = 0;
+        for (String string : strings) {
+            strings1[i] = string;
+            i++;
+        }
 
     }
 }
