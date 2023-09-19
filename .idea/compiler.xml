@@ -15,9 +15,11 @@
         <module name="hm-dianping" />
         <module name="tj-common" />
         <module name="tj-media" />
+        <module name="design-1-00" />
         <module name="tj-api" />
         <module name="tj-message-api" />
         <module name="tj-user" />
+        <module name="Netty-study" />
         <module name="tj-course" />
         <module name="tj-search" />
         <module name="tj-message-service" />
@@ -36,11 +38,14 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="batis-maven" target="1.5" />
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.7" />
       <module name="hm-dianping (1)" target="1.8" />
       <module name="hm-dianping (2)" target="1.8" />
       <module name="homework" target="18" />
       <module name="javaweb-02-servlet" target="1.8" />
       <module name="jedis-study" target="1.5" />
+      <module name="logging" target="1.7" />
       <module name="mybatis-01" target="1.5" />
       <module name="mybatis-02" target="1.5" />
       <module name="mybatis-03" target="1.5" />
@@ -50,8 +55,13 @@
       <module name="mybatis-07" target="1.5" />
       <module name="mybatis-08" target="1.5" />
       <module name="mybatis-09" target="1.5" />
+      <module name="primary-source" target="1.7" />
+      <module name="project" target="1.5" />
+      <module name="projects" target="1.5" />
+      <module name="servlet" target="1.7" />
       <module name="servlet-02" target="1.7" />
       <module name="servlet-03" target="1.7" />
+      <module name="servlets" target="1.5" />
       <module name="springboot-redis" target="1.8" />
       <module name="srujava0625" target="1.5" />
     </bytecodeTargetLevel>
@@ -62,6 +72,29 @@
       <module name="hm-dianping (1)" options="-parameters" />
       <module name="hm-dianping (2)" options="-parameters" />
       <module name="springboot-redis" options="-parameters" />
+      <module name="tj-api" options="-parameters" />
+      <module name="tj-auth-common" options="-parameters" />
+      <module name="tj-auth-gateway-sdk" options="-parameters" />
+      <module name="tj-auth-resource-sdk" options="-parameters" />
+      <module name="tj-auth-service" options="-parameters" />
+      <module name="tj-common" options="-parameters" />
+      <module name="tj-course" options="-parameters" />
+      <module name="tj-data" options="-parameters" />
+      <module name="tj-exam" options="-parameters" />
+      <module name="tj-gateway" options="-parameters" />
+      <module name="tj-learning" options="-parameters" />
+      <module name="tj-media" options="-parameters" />
+      <module name="tj-message-api" options="-parameters" />
+      <module name="tj-message-domain" options="-parameters" />
+      <module name="tj-message-service" options="-parameters" />
+      <module name="tj-pay-api" options="-parameters" />
+      <module name="tj-pay-domain" options="-parameters" />
+      <module name="tj-pay-service" options="-parameters" />
+      <module name="tj-promotion" options="-parameters" />
+      <module name="tj-remark" options="-parameters" />
+      <module name="tj-search" options="-parameters" />
+      <module name="tj-trade" options="-parameters" />
+      <module name="tj-user" options="-parameters" />
     </option>
   </component>
 </project>

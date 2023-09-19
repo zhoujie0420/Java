@@ -8,19 +8,17 @@ import java.util.concurrent.Callable;
  */
 
 public class Task implements Callable<Long> {
-    private Long num;
-
-    public Task(Long num) {
+    private long num;
+    public Task(long num) {
         this.num = num;
     }
 
-    @Override
     public Long call() throws Exception {
         long r = 0;
-        for(long i = 1; i <= this.num; i++) {
-            r += i;
+        for (long n = 1; n <= this.num; n++) {
+            r = r + n;
         }
-        System.out.println("result: " + r);
+        System.out.println("Result: " + r);
         return r;
     }
 }
