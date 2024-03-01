@@ -37,7 +37,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="batis-maven" target="1.5" />
+      <module name="batis-maven" target="1.8" />
       <module name="ear" target="1.5" />
       <module name="ejbs" target="1.7" />
       <module name="hm-dianping (1)" target="1.8" />
@@ -46,15 +46,15 @@
       <module name="javaweb-02-servlet" target="1.8" />
       <module name="jedis-study" target="1.5" />
       <module name="logging" target="1.7" />
-      <module name="mybatis-01" target="1.5" />
-      <module name="mybatis-02" target="1.5" />
-      <module name="mybatis-03" target="1.5" />
-      <module name="mybatis-04" target="1.5" />
-      <module name="mybatis-05" target="1.5" />
-      <module name="mybatis-06" target="1.5" />
-      <module name="mybatis-07" target="1.5" />
-      <module name="mybatis-08" target="1.5" />
-      <module name="mybatis-09" target="1.5" />
+      <module name="mybatis-01" target="1.8" />
+      <module name="mybatis-02" target="1.8" />
+      <module name="mybatis-03" target="1.8" />
+      <module name="mybatis-04" target="1.8" />
+      <module name="mybatis-05" target="1.8" />
+      <module name="mybatis-06" target="1.8" />
+      <module name="mybatis-07" target="1.8" />
+      <module name="mybatis-08" target="1.8" />
+      <module name="mybatis-09" target="1.8" />
       <module name="primary-source" target="1.7" />
       <module name="project" target="1.5" />
       <module name="projects" target="1.5" />
@@ -63,7 +63,7 @@
       <module name="servlet-03" target="1.7" />
       <module name="servlets" target="1.5" />
       <module name="springboot-redis" target="1.8" />
-      <module name="srujava0625" target="1.5" />
+      <module name="srujava0625" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

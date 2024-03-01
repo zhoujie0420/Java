@@ -4,6 +4,7 @@ import java.util.concurrent.Callable;
 
 /**
  * @author: jiezhou
+ * 适配器模式
  **/
 
 public class Main {

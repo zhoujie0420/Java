@@ -1,5 +1,0 @@
-com\tianji\auth\common\constants\AuthErrorInfo$Code.class
-com\tianji\auth\common\constants\AuthErrorInfo$Msg.class
-com\tianji\auth\common\constants\AuthErrorInfo.class
-com\tianji\auth\common\constants\JwtConstants.class
-com\tianji\auth\common\domain\PrivilegeRoleDTO.class
